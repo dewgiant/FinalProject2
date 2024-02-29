@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Common Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e76dd61-d526-4aed-b5ba-8fce2ed34fed</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0b36641-639c-4c71-8917-747eb9629fa9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>deb6e787-48b1-4960-87c2-db28ab0418ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dewanti'</defaultValue>
+      <description></description>
+      <id>b0b36641-639c-4c71-8917-747eb9629fa9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>deb6e787-48b1-4960-87c2-db28ab0418ee</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
